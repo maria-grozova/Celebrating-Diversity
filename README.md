@@ -11,7 +11,7 @@
 7. [Credits](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#7-credits)
 8. [Licencing Rights](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#8-licencing-rights)
 9. [Other Documents](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#9-ohter-documents)
-10. [Badges](https://github.com/maria-grozova/Celebrating-Diversity/tree/main#10-badges))](https://github.com/maria-grozova/Celebrating-Diversity/tree/main#10-badges)
+10. [Badges](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#10-badges)
 
 
 
