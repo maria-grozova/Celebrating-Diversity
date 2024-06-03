@@ -2,15 +2,15 @@
 ## A hackathon project by team Event Horizon
 
 ### Table of Contents
-1. Project Description
-2. Hackathon Project Rules and Guidelines
-3. Background Research
-4. Design Process
-5. How to Use Celebrating Diversity
-6. Testing Documentation
-7. Credits
-8. Licencing Rights
-9. Other Documents
+1. [Project Description](https://github.com/maria-grozova/Celebrating-Diversity/edit/main/README.md#1-project-description)
+2. [Hackathon Project Rules and Guidelines](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#2-hackathon-project-rules-and-guidelines)
+3. [Background Research](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#3-background-research)
+4. [Design Process](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#4-design-process)
+5. [How to Use Celebrating Diversity](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#5-how-to-use-celebrating-diversity)
+6. [Testing Documentation](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#6-testing-documentation)
+7. [Credits](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#7-credits)
+8. [Licencing Rights](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#8-licencing-rights)
+9. [Other Documents](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#9-ohter-documents)
 
 
 
