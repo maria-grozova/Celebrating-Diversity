@@ -77,6 +77,9 @@ Records of group meetings to discuss and deliberate the design process as well a
 
 [Hackathon Meeting Minutes  - 03  06  24.docx](https://github.com/user-attachments/files/15533322/Hackathon.Meeting.Minutes.-.03.06.24.docx)
 
+[Hackathon Meeting Minutes – 03  06  24 (UX).docx](https://github.com/user-attachments/files/15536152/Hackathon.Meeting.Minutes.03.06.24.UX.docx)
+
+
 ## 10. Badges
 
 
