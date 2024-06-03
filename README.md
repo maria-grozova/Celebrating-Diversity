@@ -2,7 +2,7 @@
 ## A hackathon project by team Event Horizon
 
 ### Table of Contents
-1. [Project Description](https://github.com/maria-grozova/Celebrating-Diversity/edit/main/README.md#1-project-description)
+1. [Project Description](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#1-project-description)
 2. [Hackathon Project Rules and Guidelines](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#2-hackathon-project-rules-and-guidelines)
 3. [Background Research](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#3-background-research)
 4. [Design Process](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#4-design-process)
