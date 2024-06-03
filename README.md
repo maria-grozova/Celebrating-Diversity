@@ -21,11 +21,15 @@
 
 This project was worked on and developed by a team of [INSERT FINAL COUNT] developers. 
 These developers are... 
+  
   **Project Manager**
 - **Maria Grovoza** (https://github.com/maria-grozova)
-  **UX Lead**
+
+**UX Lead**
 - **Aeryx Rose** (https://github.com/SubjugatorofCSS)
-  **Documentation, Design, Flex**
+
+**Documentation, Design, Flex**
 - **Carl Jones** (https://github.com/c-e-jones)
 - **Mathilde** (X)
+  
 ##  7. Licencing Rights
