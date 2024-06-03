@@ -73,7 +73,7 @@ These developers are...
 
 Records of group meetings to discuss and deliberate the design process as well as daily stand-up and stand-down meetings can be found attached. 
 
-[Minutes from Hackathon Meeting – 31  05  24.docx](https://github.com/user-attachments/files/15533321/Minutes.from.Hackathon.Meeting.31.05.24.docx)
+[Hackathon Meeting Minutes (Introductions) – 31  05  24.docx](https://github.com/user-attachments/files/15533321/Minutes.from.Hackathon.Meeting.31.05.24.docx)
 
 [Hackathon Meeting Minutes  - 03  06  24.docx](https://github.com/user-attachments/files/15533322/Hackathon.Meeting.Minutes.-.03.06.24.docx)
 
