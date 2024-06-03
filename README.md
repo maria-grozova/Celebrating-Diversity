@@ -58,7 +58,7 @@ This project was worked on and developed by a team of [INSERT FINAL COUNT] devel
 These developers are... 
   
   **Team Leader / Project Manager / Scrum Leader**
-- **Maria Grovoza** (https://github.com/maria-grozova)
+- **Maria Grozova** (https://github.com/maria-grozova)
 
 **UX Design / Lead**
 - **Aeryx Rose** (https://github.com/SubjugatorofCSS)
