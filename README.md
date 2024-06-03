@@ -11,7 +11,7 @@
 7. [Credits](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#7-credits)
 8. [Licencing Rights](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#8-licencing-rights)
 9. [Other Documents](https://github.com/maria-grozova/Celebrating-Diversity/blob/main/README.md#9-ohter-documents)
-10. Badges
+10. [Badges]((https://github.com/maria-grozova/Celebrating-Diversity/edit/main/README.md#10-badges))
 
 
 
@@ -77,7 +77,7 @@ Records of group meetings to discuss and deliberate the design process as well a
 
 [Hackathon Meeting Minutes  - 03  06  24.docx](https://github.com/user-attachments/files/15533322/Hackathon.Meeting.Minutes.-.03.06.24.docx)
 
-## 10. [Badges](https://github.com/maria-grozova/Celebrating-Diversity/edit/main/README.md#10-badges)
+## 10. Badges
 
 
 
