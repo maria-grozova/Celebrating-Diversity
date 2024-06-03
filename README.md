@@ -69,7 +69,7 @@ These developers are...
   
 ##  8. Licencing Rights
 
-## 9. Ohter Documents
+## 9. Other Documents
 
 Records of group meetings to discuss and deliberate the design process as well as daily stand-up and stand-down meetings can be found attached. 
 
