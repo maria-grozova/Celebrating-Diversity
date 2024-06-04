@@ -34,11 +34,19 @@ As part of a hackathon project, there are rules and constraints enforced upon th
 - The only items permitted before this day were setting up a repository, wireframing, project team meetings and basic documentation. Coding could not begin until 9am of the first scheduled day.
 - This project is _**not allowed**_ to use any form of JavaScript (outside of Bootstrap or similar CDN focused on basic style), and is not allowed to plug any APIs into the project. It is restricted to just HTML and CSS.
 
-### Guidelines
+### Success Criteria
 
-- Our team was advised to use Agile Methodologies in the construction of this project, based upon prior teachings.
-- The deployment of this Agile Methodology was Agile Scrumming, with daily stand-up and stand-down meetings.
-- Our development should be targeting responsivity in the first instance, built for the mobile experience first. 
+- Design a static Front-End web application using HTML and CSS based on the principles of 
+user experience design, accessibility and responsivity
+- Test a Front-End web application through the development, implementation and 
+deployment stages
+- Deploy a Front-End web application to a Cloud platform
+- Maximise future maintainability through documentation, code structure and organisation
+- Demonstrate and document the development process through a version control system 
+such as GitHub
+- Use an Agile methodology to plan and design a Front End Web application
+
+  Full, expansive criteria can be found [here.](https://github.com/user-attachments/files/15544813/Hackathon.1.Requirements.pdf)
 
 
 ##  3. Background Research
