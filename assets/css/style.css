@@ -1,19 +1,62 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
-/*-------------------------Colours */
+/*-------------------------Wildcard selector to override default styling*/
 
-.background-nav {
-    background-color: #DB7F67;
-    
+* {
+    padding: 0;
+    margin: 0;
 }
 
 
+/*-------------------------Colours */
+
+.background-nav {
+    background-color: #DB7F67;    
+}
+
+.background-main    {
+    background-color: #faf0f0;
+}
+
+.background-footer {
+    background-color: #8E5344;
+}
+
+.footer-text, .footer-text a{
+    color: #efeee6;
+    font-size: 14px;
+}
+
 /*--------------------------Nav font colour override*/
+
+header {
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+}
 
 .navbar-light .navbar-nav .nav-link {
     color: #efeee6;
 }
-
+ 
 .navbar-light .navbar-brand {
     color: #efeee6;
+}
+
+/*----------------------------Body*/
+
+main   {
+    min-height: 100vh;
+}
+
+
+/*---------------------------Footer*/
+
+footer  {
+    min-height: 10vh;
+    margin: 0;
+}
+
+.footer-details {
+    padding: 20px;
 }
