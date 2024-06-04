@@ -38,6 +38,7 @@ As part of a hackathon project, there are rules and constraints enforced upon th
 
 - Our team was advised to use Agile Methodologies in the construction of this project, based upon prior teachings.
 - The deployment of this Agile Methodology was Agile Scrumming, with daily stand-up and stand-down meetings.
+- Our development should be targeting responsivity in the first instance, built for the mobile experience first. 
 
 
 ##  3. Background Research
