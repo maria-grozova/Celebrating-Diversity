@@ -7,6 +7,13 @@
     
 }
 
+.background-footer {
+    background-color: #8E5344;
+}
+
+.footer-text, .footer-text a{
+    color: #efeee6;
+}
 
 /*--------------------------Nav font colour override*/
 
