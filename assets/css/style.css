@@ -7,3 +7,13 @@
     
 }
 
+
+/*--------------------------Nav font colour override*/
+
+.navbar-light .navbar-nav .nav-link {
+    color: #efeee6;
+}
+
+.navbar-light .navbar-brand {
+    color: #efeee6;
+}
