@@ -95,9 +95,8 @@ main {
 
 /*---------------------------Success Stories*/
 
-#success-story-img-1 {
-    background: url(../images/success-stories-img-1.webp) no-repeat center/cover;
-    position: relative;
+.success-img-1  {
+    background-image: url(../images/success-stories-img-1.webp) no-repeat cover/center;
 }
 
 /*---------------------------Footer*/
