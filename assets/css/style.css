@@ -11,10 +11,10 @@
 /*-------------------------Colours */
 
 .background-nav {
-    background-color: #DB7F67;    
+    background-color: #DB7F67;
 }
 
-.background-main    {
+.background-main {
     background-color: #faf0f0;
 }
 
@@ -22,7 +22,8 @@
     background-color: #8E5344;
 }
 
-.footer-text, .footer-text a{
+.footer-text,
+.footer-text a {
     color: #efeee6;
     font-size: 14px;
 }
@@ -40,20 +41,20 @@ header {
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
 }
- 
+
 .navbar-light .navbar-brand {
     color: #efeee6;
     font-family: "Rubik", sans-serif;
     font-weight: 600;
 }
 
-h1  {
+h1 {
     font-size: 24px;
 }
 
 /*----------------------------Body*/
 
-main   {
+main {
     min-height: 100vh;
     padding-top: 91.59px;
 }
@@ -61,7 +62,7 @@ main   {
 /*-----------------------------Homepage*/
 
 
-#hero   {
+#hero {
     height: 280px;
     width: 100%;
     background: url(../images/hero-ci-main.webp) no-repeat center/cover;
@@ -77,7 +78,7 @@ main   {
     margin-bottom: 60px;
 }
 
-.home-content-text  {
+.home-content-text {
     font-size: 14px;
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
@@ -88,13 +89,20 @@ main   {
 
 /*------------This overrides Bootstrap row margins, which produce a right-side buffer*/
 
-.home-row-margin  {
+.home-row-margin {
     margin-right: 0px;
+}
+
+/*---------------------------Success Stories*/
+
+#success-story-img-1 {
+    background: url(../images/success-stories-img-1.webp) no-repeat center/cover;
+    position: relative;
 }
 
 /*---------------------------Footer*/
 
-footer  {
+footer {
     min-height: 10vh;
     margin: 0;
     min-width: 100%;
