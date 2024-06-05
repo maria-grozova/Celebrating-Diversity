@@ -50,6 +50,7 @@ header {
 
 h1 {
     font-size: 24px;
+    font-family: Rubik, sans-serif;
 }
 
 /*----------------------------Body*/
@@ -57,6 +58,13 @@ h1 {
 main {
     min-height: 100vh;
     padding-top: 91.59px;
+
+    font-family: Montserrat, sans-serif;
+    color: #2E3A3B;
+}
+
+main a {
+    color: #8E5344;
 
 }
 
@@ -152,11 +160,28 @@ main {
 .success-profiles-padding   {
     padding-bottom: 30px;
 }
-=======
-}
+
 
 /*---------------------------Take Action*/
 
+
+.container-fluid {
+    min-width: 590px;
+}
+
+.actions-section {
+    max-width: 800px;
+    padding-top: 25px;
+}
+
+.actions-list {
+    padding-left: 40px;
+}
+
+.actions-section .alert-warning {
+    background-color: #DB7F67;
+    color: #2E3A3B;
+}
 
 /*---------------------------Footer*/
 
