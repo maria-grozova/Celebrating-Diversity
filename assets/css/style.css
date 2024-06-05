@@ -63,14 +63,14 @@ main {
 
 
 #hero {
-    height: 280px;
+    height: 400px;
     width: 100%;
     background: url(../images/hero-ci-main.webp) no-repeat center/cover;
     position: relative;
 }
 
 .home-title {
-    font-size: 28px;
+    font-size: 48px;
     font-family: "Rubik", sans-serif;
     font-weight: 400;
     color: #2e3a3b;
@@ -79,7 +79,7 @@ main {
 }
 
 .home-content-text {
-    font-size: 14px;
+    font-size: 24px;
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
     color: #2e3a3b;
@@ -87,11 +87,16 @@ main {
     margin-bottom: 60px;
 }
 
-/*------------This overrides Bootstrap row margins, which produce a right-side buffer*/
+/*------------This overrides Bootstrap row margins and padding, which produce a right-side buffer*/
 
 .home-row-margin {
     margin-right: 0px;
     margin-left: 0px;
+}
+
+.home-padding   {
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 /*---------------------------Success Stories*/
