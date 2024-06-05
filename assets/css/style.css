@@ -70,7 +70,7 @@ main {
 }
 
 .home-title {
-    font-size: 48px;
+    font-size: 28px;
     font-family: "Rubik", sans-serif;
     font-weight: 400;
     color: #2e3a3b;
@@ -79,7 +79,7 @@ main {
 }
 
 .home-content-text {
-    font-size: 24px;
+    font-size: 16px;
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
     color: #2e3a3b;
@@ -98,6 +98,18 @@ main {
     padding-left: 0px;
     padding-right: 0px;
 }
+
+/*---------------------------Media Query to change text size on desktop devices*/
+
+@media screen and (min-width:768px)    {
+    .home-title {
+        font-size: 48px;
+    }
+
+    .home-content-text  {
+        font-size: 24px;
+    }
+}   
 
 /*---------------------------Success Stories*/
 
