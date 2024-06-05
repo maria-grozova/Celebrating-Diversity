@@ -97,8 +97,8 @@ main {
 /*---------------------------Success Stories*/
 
 .success-main-heading   {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 40px;
+    padding-bottom: 30px;
 }
 
 #success-img-1  {
@@ -131,6 +131,9 @@ main {
     padding-bottom: 20px;
 }
 
+.success-profiles-padding   {
+    padding-bottom: 30px;
+}
 
 /*---------------------------Footer*/
 
