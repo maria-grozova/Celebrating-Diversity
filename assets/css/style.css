@@ -28,6 +28,16 @@
     font-size: 14px;
 }
 
+.hover-link:hover   {
+    color: #DB7F67;
+    text-decoration: none;
+} 
+
+.hover-link   {
+    color: #8E5344;
+    text-decoration: none;
+} 
+
 /*--------------------------Nav font colour override*/
 
 header {
@@ -46,6 +56,15 @@ header {
     color: #efeee6;
     font-family: "Rubik", sans-serif;
     font-weight: 600;
+}
+
+.navbar-light:hover .navbar-nav:hover .nav-link:hover   {
+    color: #8E5344;
+}
+
+.navbar-light:hover .navbar-brand:hover {
+    color: #8E5344;
+
 }
 
 h1 {
@@ -83,8 +102,8 @@ main a {
     font-family: "Rubik", sans-serif;
     font-weight: 400;
     color: #2e3a3b;
-    margin-top: 30px;
-    margin-bottom: 60px;
+    padding-top: 30px;
+    padding-bottom: 40px;
 }
 
 .home-content-text {
@@ -92,8 +111,8 @@ main a {
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
     color: #2e3a3b;
-    margin-top: 30px;
-    margin-bottom: 60px;
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
 
 /*------------This overrides Bootstrap row margins and padding, which produce a right-side buffer*/
@@ -194,4 +213,9 @@ footer {
 .footer-details {
     padding: 20px;
     min-width: 100%;
+}
+
+.footer-link:hover     {
+    text-decoration:none;
+    color: #DB7F67;
 }
