@@ -37,10 +37,14 @@ header {
 
 .navbar-light .navbar-nav .nav-link {
     color: #efeee6;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
 }
  
 .navbar-light .navbar-brand {
     color: #efeee6;
+    font-family: "Rubik", sans-serif;
+    font-weight: 700;
 }
 
 /*----------------------------Body*/
