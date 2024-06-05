@@ -11,10 +11,10 @@
 /*-------------------------Colours */
 
 .background-nav {
-    background-color: #DB7F67;    
+    background-color: #DB7F67;
 }
 
-.background-main    {
+.background-main {
     background-color: #faf0f0;
 }
 
@@ -22,7 +22,8 @@
     background-color: #8E5344;
 }
 
-.footer-text, .footer-text a{
+.footer-text,
+.footer-text a {
     color: #efeee6;
     font-size: 14px;
 }
@@ -40,33 +41,132 @@ header {
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
 }
- 
+
 .navbar-light .navbar-brand {
     color: #efeee6;
     font-family: "Rubik", sans-serif;
     font-weight: 600;
 }
 
-h1  {
+h1 {
     font-size: 24px;
 }
 
 /*----------------------------Body*/
 
-main   {
+main {
     min-height: 100vh;
     padding-top: 91.59px;
+
+}
+
+/*-----------------------------Homepage*/
+
+
+#hero {
+    height: 400px;
+    width: 100%;
+    background: url(../images/hero-ci-main.webp) no-repeat center/cover;
+    position: relative;
+}
+
+.home-title {
+    font-size: 28px;
+    font-family: "Rubik", sans-serif;
+    font-weight: 400;
+    color: #2e3a3b;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.home-content-text {
+    font-size: 16px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    color: #2e3a3b;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+/*------------This overrides Bootstrap row margins and padding, which produce a right-side buffer*/
+
+.home-row-margin {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.home-padding   {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+/*---------------------------Media Query to change text size on desktop devices*/
+
+@media screen and (min-width:768px)    {
+    .home-title {
+        font-size: 48px;
+    }
+
+    .home-content-text  {
+        font-size: 24px;
+    }
+}   
+
+/*---------------------------Success Stories*/
+
+.success-main-heading   {
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+#success-img-1  {
+    max-height: 300px;
+    min-height: 300px;
+    background: url(../images/success-stories-img-1.webp) no-repeat center center/cover;
+    border-radius: 50%;
+    padding-top: 90px;
+}
+
+#success-img-2  {
+    max-height: 300px;
+    min-height: 300px;
+    background: url(../images/success-stories-img-2.webp) no-repeat center center/cover;
+    border-radius: 50%;
+    padding-top: 90px;
+}
+
+#success-img-3  {
+    max-height: 300px;
+    min-height: 300px;
+    background: url(../images/success-stories-img-3.webp) no-repeat center center/cover;
+    border-radius: 50%;
+    padding-top: 90px;
+}
+
+.success-heading-text   {
+    font-size: 24px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.success-profiles-padding   {
+    padding-bottom: 30px;
+}
+=======
 }
 
 /*---------------------------Take Action*/
 
+
 /*---------------------------Footer*/
 
-footer  {
+footer {
     min-height: 10vh;
     margin: 0;
+    min-width: 100%;
 }
 
 .footer-details {
     padding: 20px;
+    min-width: 100%;
 }
