@@ -86,13 +86,21 @@ main   {
     margin-bottom: 60px;
 }
 
+/*------------This overrides Bootstrap row margins, which produce a right-side buffer*/
+
+.home-row-margin  {
+    margin-right: 0px;
+}
+
 /*---------------------------Footer*/
 
 footer  {
     min-height: 10vh;
     margin: 0;
+    min-width: 100%;
 }
 
 .footer-details {
     padding: 20px;
+    min-width: 100%;
 }
