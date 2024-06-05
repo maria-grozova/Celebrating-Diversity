@@ -102,11 +102,9 @@ main {
 }
 
 #success-img-1  {
-    max-height: 250px;
-    min-height: 250px;
-    max-width: 250px;
-    min-width: 250px;
-    background: url(../images/success-stories-img-1.webp) no-repeat center/cover;
+    max-height: 300px;
+    min-height: 300px;
+    background: url(../images/success-stories-img-1.webp) no-repeat center center/cover;
     border-radius: 50%;
     padding-top: 90px;
 }
@@ -114,6 +112,7 @@ main {
 .success-heading-text   {
     font-size: 24px;
     padding-top: 30px;
+    padding-bottom: 20px;
 }
 
 
