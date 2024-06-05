@@ -91,13 +91,31 @@ main {
 
 .home-row-margin {
     margin-right: 0px;
+    margin-left: 0px;
 }
 
 /*---------------------------Success Stories*/
 
-.success-img-1  {
-    background-image: url(../images/success-stories-img-1.webp) no-repeat cover/center;
+.success-main-heading   {
+    padding-top: 30px;
+    padding-bottom: 60px;
 }
+
+#success-img-1  {
+    max-height: 250px;
+    min-height: 250px;
+    max-width: 250px;
+    min-width: 250px;
+    background: url(../images/success-stories-img-1.webp) no-repeat center/cover;
+    border-radius: 50%;
+    padding-top: 90px;
+}
+
+.success-heading-text   {
+    font-size: 24px;
+    padding-top: 30px;
+}
+
 
 /*---------------------------Footer*/
 
