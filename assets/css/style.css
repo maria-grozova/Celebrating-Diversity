@@ -68,14 +68,14 @@ header {
 }
 
 .navbar-light .navbar-toggler {
-    color: #8E5344;
-    border-color: #8E5344;
+    color: #efeee6;
+    border-color:  #efeee6;
     border-width: 2px;
 }
 
 .navbar-light:hover .navbar-toggler:hover {
-    color: #DB7F67;
-    border-color:  #efeee6;
+    color: #8E5344;
+    border-color:  #8E5344;
     border-width: 2px;
 }
 
