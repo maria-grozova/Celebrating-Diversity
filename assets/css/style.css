@@ -55,9 +55,36 @@ h1  {
 
 main   {
     min-height: 100vh;
-    padding-top: 56px;
+    padding-top: 91.59px;
 }
 
+/*-----------------------------Homepage*/
+
+
+#hero   {
+    height: 280px;
+    width: 100%;
+    background: url(../images/hero-ci-main.webp) no-repeat center/cover;
+    position: relative;
+}
+
+.home-title {
+    font-size: 28px;
+    font-family: "Rubik", sans-serif;
+    font-weight: 400;
+    color: #2e3a3b;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.home-content-text  {
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    color: #2e3a3b;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
 
 /*---------------------------Footer*/
 
