@@ -28,6 +28,16 @@
     font-size: 14px;
 }
 
+.hover-link:hover   {
+    color: #DB7F67;
+    text-decoration: none;
+} 
+
+.hover-link   {
+    color: #8E5344;
+    text-decoration: none;
+} 
+
 /*--------------------------Nav font colour override*/
 
 header {
@@ -46,6 +56,15 @@ header {
     color: #efeee6;
     font-family: "Rubik", sans-serif;
     font-weight: 600;
+}
+
+.navbar-light:hover .navbar-nav:hover .nav-link:hover   {
+    color: #8E5344;
+}
+
+.navbar-light:hover .navbar-brand:hover {
+    color: #8E5344;
+
 }
 
 h1 {
@@ -194,4 +213,9 @@ footer {
 .footer-details {
     padding: 20px;
     min-width: 100%;
+}
+
+.footer-link:hover     {
+    text-decoration:none;
+    color: #DB7F67;
 }
