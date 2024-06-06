@@ -195,7 +195,7 @@ All links function as detail lists above.
 
 ### About Page
 
-![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/edeac260-42d9-42c4-8b8e-9e223a09fa61)
+![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/c1758d42-ddd4-4844-8598-275c756c283e)
 
 ### Resources Page
 
