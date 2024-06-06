@@ -27,7 +27,9 @@
                 <!--THIS IS THE NAVBAR-->
 
                 <nav class="navbar navbar-expand-lg navbar-light background-nav">
-                    <a class="navbar-brand" href="index.html"><h1>Celebrating<br>Diversity</h1></a>
+                    <a class="navbar-brand" href="index.html">
+                        <h1>Celebrating<br>Diversity</h1>
+                    </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse"
                         data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
                         aria-label="Toggle navigation">
@@ -50,18 +52,25 @@
     </header>
 
     <main>
-        <section class="background-main">
-        <form class="diversity-form">
-            <label for="name">Your name:</label><br>
-            <input type="text" id="name" name="name" placeholder="Name Here:"><br><br>     
-            <label for="email">Enter Your Email:</label><br>
-            <input type="email" id="email" name="email" placeholder="john.doe@generic.com"><br><br>
-            <label for="stories">Share Your Stories:</label><br>
-            <textarea id="stories" name="stories" rows="15" cols="50" placeholder="Share here:"></textarea>
-            <br><br>
-            <input type="submit" value="Submit">
-        </form>
-        </section>
+        <div class="container">
+            <div class="row justify-content-center no-gutters">
+                <div class="col-12 align-self-center">
+                    <section class="background-main">
+                        <form class="diversity-form">
+                            <label for="name">Your name:</label><br>
+                            <input type="text" id="name" name="name" placeholder="Name Here:"><br><br>
+                            <label for="email">Enter Your Email:</label><br>
+                            <input type="email" id="email" name="email" placeholder="john.doe@generic.com"><br><br>
+                            <label for="stories">Share Your Stories:</label><br>
+                            <textarea id="stories" name="stories" rows="15" cols="50"
+                                placeholder="Share here:"></textarea>
+                            <br><br>
+                            <input type="submit" value="Submit">
+                        </form>
+                    </section>
+                </div>
+            </div>
+            </div>
     </main>
 
     <!--THIS IS THE FOOTER-->
