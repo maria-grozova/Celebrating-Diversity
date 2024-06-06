@@ -103,16 +103,16 @@ For our Navbar and Footer, two of the most crucial and consistent elements of th
 
 ### Visual Example of Navbar
 
-Code
+### Code
 
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/39c9ab5a-fc3d-444f-a8b9-d164d8f603a9)
 
-Mobile
+### Mobile
 
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/2b69b0ce-ffb6-4186-a66b-1fb2ef55e923)
 
 
-Desktop
+### Desktop
 
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/19fe7517-5a32-4e1d-8e30-61f23ec28475)
 
@@ -124,7 +124,7 @@ We also added hover-over functionality to the text, to ensure that it now reflec
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/ca5b9ec1-0129-4654-93b8-cecba0bd8c7e)
 
 
-Example of Styling Change to Navbar CSS
+###Example of Styling Change to Navbar CSS
 
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/28df7f8c-06b5-4e8e-bce0-60cffd176f70)
 
@@ -132,17 +132,17 @@ To achieve some of these desired changes, we had to make mass-override commands 
 
 ### Visual Example of Footer
 
-Code
+### Code
 
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/f2a1c3bf-c253-4bce-8da2-cab4ed4239b3)
 
 
-Mobile
+### Mobile
 
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/dbf95ef6-8caa-4d97-8338-024a1ff9e420)
 
 
-Desktop
+### Desktop
 
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/aa601c3c-d13a-441e-af4b-3c1fe0cdd772)
 
@@ -162,25 +162,35 @@ Due to this, we have a single primary mechanism of navigation around the site, t
 
 With this, we have a simple, but elegant mechanism of site navigation, reliant wholly upon the intuitive use of the Navbar, which users at this point are trained to understand.
 
+### Navbar
+
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/55722ba6-2926-4a33-9e5b-b2ced7277d23)
 
 
 On our About page, we have an Accordion element, from Bootstrap. This can be used to collapse out additional information, to give the user great information about each specific form of discrimination.
+
+### About
 
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/dc171cb4-200a-46ea-ab46-caf4be86bb30)
 
 
 On our Contact page, we have a contact form, so that users may get in touch to provide us with insights and information they wish for our site to contain. 
 
+### Contact
+
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/7d7c35b1-0836-4c5f-9622-34679569ffef)
 
 
 On our Take Action page, we have included an iframe for a video. This will simply play an example video of what it means to be inclusive. 
 
+### Take Action
+
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/6c5242e1-32e6-4716-9aff-805bb15b8ef5)
 
 
 On our Resources page, we have a link repository to guide the user to other locations and sites (each with an "_blank" element), which will direct them to further avenues by which they can make push for an agenda of diversity and inclusion. 
+
+### Resources
 
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/3aa6f191-5d86-49ce-8964-62bec4d2eec0)
 
@@ -263,6 +273,7 @@ Tools used:
 - [Bootstrap](https://getbootstrap.com) (CC BY 3.0)
 - [Font Awesome](https://fontawesome.com/v4/icons/) (CC BY 3.0)
 - [Google Fonts](https://fonts.google.com) (SIL Open Font Licence)
+- [Pexels](https://www.pexels.com) (CC0)
 
 ## 9. Other Documents
 
