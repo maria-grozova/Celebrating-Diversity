@@ -12,7 +12,7 @@
         integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
         crossorigin="anonymous"></script>
     <!--Font Awesome import-->
-    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    <script src="https://kit.fontawesome.com/bee02fdda4.js" crossorigin="anonymous"></script>
     <!--Link to stylesheet-->
     <link rel="stylesheet" href="assets/css/style.css">
 
@@ -37,11 +37,10 @@
                     </button>
                     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                         <div class="navbar-nav ml-auto">
-                            <a class="nav-item nav-link" href="about.html">About <span
-                                    class="sr-only">(current)</span></a>
+                            <a class="nav-item nav-link" href="about.html">About</a>
                             <a class="nav-item nav-link" href="success-stories.html">Success Stories</a>
                             <a class="nav-item nav-link" href="take-action.html">Take Action</a>
-                            <a class="nav-item nav-link" href="resources.html">Resources</a>
+                            <a class="nav-item nav-link active" href="resources.html">Resources<span class="sr-only">(current)</span></a>
                             <a class="nav-item nav-link" href="contact.html">Contact</a>
                         </div>
                     </div>
@@ -52,11 +51,16 @@
     </header>
 
     <main>
-        <div class="background-main container-fluid">
+        <div class="background-main container hero-container-override">
             <div class="row justify-content-center no-gutters">
                 <div class="col-12 align-self-center resources-section">
+                    <div class="resources-title">
+                    <h2>Resources</h2>
+                    <p>We have compiled additional resources to help you learn even more about getting involved in Diversity, Inclusion and Equality</p>
+                </div>
+                <div class="resources-content">
                     <!--More about Discrimination, Equality and Inclusivity-->
-                    <h2>Learn more</h2>
+                    <h3><i class="fa-brands fa-leanpub" aria-hidden="true"></i>  Learn more</h3>
                     <p>
                         More details about the legal protections Equality Act 2010 offers on the <a
                             href="https://www.gov.uk/guidance/equality-act-2010-guidance" target="_blank">Official
@@ -64,29 +68,25 @@
                             website</a>
                     </p>
                     <!--Allyship-->
-                    <h2>Be an Ally</h2>
+                    <h3><i class="fa-solid fa-hand-holding-heart" aria-hidden="true"></i>  Be an Ally</h3>
                     <p>
                         <a href="https://guidetoallyship.com/" target="_blank">Guide to Allyship</a>
                     </p>
                     <!--Send a letter to your MP-->
-                    <h2>Contact your MP</h2>
+                    <h3><i class="fa-solid fa-bullhorn" aria-hidden="true"></i>  Get your voice heard</h3>
                     <p>
                         Find the MP in your area using your postcode <a href="https://www.theyworkforyou.com/"
-                            target="_blank">Icon</a>
+                            target="_blank"><i class="fa-solid fa-magnifying-glass" aria-hidden="true"><span class="sr-only">External link to find MP in your area</span></i></a>
                         <br>
                         Download a letter template that you can customise <a
-                            href="assets/downloads/template-letter-to-your-mp.pdf" target="_blank">Icon
-                            <i class="fa-solid fa-envelope" aria-hidden="true"><span class="sr-only">Download
+                            href="assets/downloads/template-letter-to-your-mp.pdf" target="_blank"><i class="fa-solid fa-envelope" aria-hidden="true"><span class="sr-only">Download
                                     link.</span></i></a>
                     </p>
                     <!--Petitions-->
-                    <h2>Sign petitions</h2>
+                    <h3><i class="fa-solid fa-people-group" aria-hidden="true"></i>  Join and uplift others</h3>
                     <p>
-                        Signing petitions about issues important to trans people is also a simple and quick action you
-                        can take
-                        and usually takes no longer than a minute to do so. Sharing to social media also helps expand
-                        the impact
-                        of the petition and ensures more people see the current efforts to bring about trans rights.
+                        Signing <strong>petitions</strong> is a simple and quick action you
+                        can take and usually takes no longer than a minute to do so. 
                         <br>
                         You can find petitions targeting Diversity and Inclusion issues by searching for the relevant
                         topics
@@ -97,6 +97,10 @@
                         <a href="https://action.allout.org/en/" target="_blank">All Out</a>
                     </p>
                 </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12" id="resources-hero"></div>
             </div>
         </div>
     </main>
