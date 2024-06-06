@@ -28,6 +28,16 @@
     font-size: 14px;
 }
 
+.hover-link:hover   {
+    color: #DB7F67;
+    text-decoration: none;
+} 
+
+.hover-link   {
+    color: #8E5344;
+    text-decoration: none;
+} 
+
 /*--------------------------Nav font colour override*/
 
 header {
@@ -48,6 +58,27 @@ header {
     font-weight: 600;
 }
 
+.navbar-light:hover .navbar-nav:hover .nav-link:hover   {
+    color: #8E5344;
+}
+
+.navbar-light:hover .navbar-brand:hover {
+    color: #8E5344;
+
+}
+
+.navbar-light .navbar-toggler {
+    color: #efeee6;
+    border-color:  #efeee6;
+    border-width: 2px;
+}
+
+.navbar-light:hover .navbar-toggler:hover {
+    color: #8E5344;
+    border-color:  #8E5344;
+    border-width: 2px;
+}
+
 h1 {
     font-size: 24px;
     font-family: Rubik, sans-serif;
@@ -58,7 +89,7 @@ h1 {
 main {
     min-height: 100vh;
     padding-top: 91.59px;
-
+    background-color: #faf0f0;
     font-family: Montserrat, sans-serif;
     color: #2E3A3B;
 }
@@ -74,7 +105,7 @@ main a {
 #hero {
     height: 400px;
     width: 100%;
-    background: url(../images/hero-ci-main.webp) no-repeat center/cover;
+    background: url(../images/hero-ci-main-2.webp) no-repeat center/cover;
     position: relative;
 }
 
@@ -83,8 +114,8 @@ main a {
     font-family: "Rubik", sans-serif;
     font-weight: 400;
     color: #2e3a3b;
-    margin-top: 30px;
-    margin-bottom: 60px;
+    padding-top: 30px;
+    padding-bottom: 40px;
 }
 
 .home-content-text {
@@ -92,8 +123,8 @@ main a {
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
     color: #2e3a3b;
-    margin-top: 30px;
-    margin-bottom: 60px;
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
 
 /*------------This overrides Bootstrap row margins and padding, which produce a right-side buffer*/
@@ -106,6 +137,10 @@ main a {
 .home-padding   {
     padding-left: 0px;
     padding-right: 0px;
+}
+
+.hero-container-override    {
+    min-width: 100%;
 }
 
 /*---------------------------Media Query to change text size on desktop devices*/
@@ -206,4 +241,9 @@ footer {
 .footer-details {
     padding: 20px;
     min-width: 100%;
+}
+
+.footer-link:hover     {
+    text-decoration:none;
+    color: #DB7F67;
 }
