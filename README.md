@@ -171,7 +171,7 @@ On our About page, we have an Accordion element, from Bootstrap. This can be use
 
 ### About
 
-![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/dc171cb4-200a-46ea-ab46-caf4be86bb30)
+![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/c1758d42-ddd4-4844-8598-275c756c283e)
 
 
 On our Contact page, we have a contact form, so that users may get in touch to provide us with insights and information they wish for our site to contain. 
@@ -205,7 +205,15 @@ All links function as detail lists above.
 
 ### About Page
 
-![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/c1758d42-ddd4-4844-8598-275c756c283e)
+![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/52afaf6a-c74e-49c7-bbf3-4114c416518e)
+
+As can be seen, many errors. The majority of these errors came with Bootstrap, where expanding the Accordion on this page caused some duplicate ID tags. Additionally, an unordered list element was missing. These were resolved.
+
+After fix: 
+
+![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/f2d814a3-c9a8-4b11-811d-1e2e8cf772f3)
+
+As visible, there is still a duplicate ID error here. However, after examination, there is no known source of it, and it is headlined as an item to fix in a future iteration.
 
 ### Resources Page
 
