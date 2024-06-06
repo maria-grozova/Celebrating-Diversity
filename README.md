@@ -72,7 +72,7 @@ These two palettes were chosen for their visual simplicity, and their neutral, s
 
 With our colour-palette to hand, we decided that the next objective should be nailing down a core site-aesthetic, with a unified look that targets that mobile-first criteria. To achieve this, we used the UX wireframing tool, Balsamiq.
 
-### Low Fidelity Frames
+### Low Fidelity Wireframes
 ![wireframe-lofi](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/a32e3dde-bfa0-4c68-82e1-242d01fbcb0a)
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/5c8f5e4e-e794-48be-85aa-61083ef5d3f9)
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/5bc7e732-85e8-4d81-8352-8384d00a0832)
@@ -83,7 +83,7 @@ As you can see above, we designed our site with both mobile viewports and deskto
 
 We made an intentional decision at this stage to keep each page thematically distinct and clean, without cramming too much information into it. This was to ensure that our pages read cleanly, without too many images or objects drawing the attention of the user away from the intended content at the center.
 
-### High Fidelity Frames
+### High Fidelity Wireframes
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/8f4de79e-b613-4184-85fa-6c55e25732e0)
 
 For our high fidelity frames, we kept it very basic and simple. We added the colour-coding of our intended design, and then the images. 
