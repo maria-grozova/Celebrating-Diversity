@@ -262,10 +262,12 @@ p a:hover {
 
 .contact-form {
     padding-top: 45px;
+    width: 80%;
 }
 
 .diversity-form {
     text-align: center;
+    font-weight: 500;
 }
 
 .diversity-form .submit-story {
@@ -278,6 +280,7 @@ padding-left: 10px;
 padding-top: 5px;
 padding-bottom: 5px;
 border-radius: 20px;
+margin-bottom: 25px;
 }
 .diversity-form input,
 .diversity-form textarea {
@@ -287,12 +290,20 @@ border-radius: 20px;
     padding-bottom: 10px;
 }
 
-textarea    {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
 
-    width: 100%;
+.diversity-form input {
+    max-width: 320px;
+}
+
+.diversity-form textarea {
+    max-width: 640px;
+    height: 300px;
+}
+
+.contact-section {
+    max-width: 800px;
+    padding-top: 25px;
+
 }
 /*---------------------------Footer*/
 
