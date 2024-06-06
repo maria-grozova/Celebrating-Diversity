@@ -247,3 +247,21 @@ footer {
     text-decoration:none;
     color: #DB7F67;
 }
+
+.footer, .col-6 {
+    padding-left: 0;
+    padding-right: 0; 
+}
+
+.footer, .col-4  {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.footer, a, p  {
+    font-size: 12px;
+}
+
+.footer, .copyright  {
+    font-size: 12px;
+}
