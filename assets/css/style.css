@@ -253,6 +253,39 @@ p a:hover {
     position: relative;
 }
 
+/*---------------------------Contact*/
+
+.contact-title {
+    text-align: center;
+    padding: 20px auto;
+}
+
+.contact-form {
+    padding-top: 45px;
+}
+
+.diversity-form {
+    text-align: center;
+}
+
+.diversity-form .submit-story {
+background-color: #DB7F67;
+color: #efeee6;
+font-family: Rubik, sans-serif;
+text-transform: uppercase;
+padding-right: 10px;
+padding-left: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
+border-radius: 20px;
+}
+.diversity-form input,
+.diversity-form textarea {
+padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
 /*---------------------------Footer*/
 
 footer {

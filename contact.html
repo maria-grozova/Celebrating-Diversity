@@ -27,7 +27,9 @@
                 <!--THIS IS THE NAVBAR-->
 
                 <nav class="navbar navbar-expand-lg navbar-light background-nav">
-                    <a class="navbar-brand" href="index.html"><h1>Celebrating<br>Diversity</h1></a>
+                    <a class="navbar-brand" href="index.html">
+                        <h1>Celebrating<br>Diversity</h1>
+                    </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse"
                         data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
                         aria-label="Toggle navigation">
@@ -50,23 +52,36 @@
     </header>
 
     <main>
-        <section class="background-main">
-        <form class="diversity-form">
-            <label for="name">Your name:</label><br>
-            <input type="text" id="name" name="name" placeholder="Name Here:"><br><br>     
-            <label for="email">Enter Your Email:</label><br>
-            <input type="email" id="email" name="email" placeholder="john.doe@generic.com"><br><br>
-            <label for="stories">Share Your Stories:</label><br>
-            <textarea id="stories" name="stories" rows="15" cols="50" placeholder="Share here:"></textarea>
-            <br><br>
-            <input type="submit" value="Submit">
-        </form>
-        </section>
+        <div class="background-main container hero-container-override">
+            <div class="row justify-content-center no-gutters">
+                <div class="col-12 align-self-center contact-section">
+                    <div class="contact-title">
+                        <h2>Contact us with your success stories</h2>
+                        <p>We would love to hear from you, and feature your own success stories of advocation and
+                            celebrating Diversity</p>
+                    </div>
+                </div>
+                <div class="contact-form">
+                    <form class="diversity-form">
+                        <label for="name">Your name:</label><br>
+                        <input type="text" id="name" name="name" placeholder="Name Surname"><br><br>
+                        <label for="email">Enter Your Email:</label><br>
+                        <input type="email" id="email" name="email" placeholder="diversity@email.com"><br><br>
+                        <label for="stories">Share Your Story:</label><br>
+                        <textarea id="stories" name="stories" rows="10" cols="50" placeholder="Hello, world"></textarea>
+                        <br><br>
+                        <input type="submit" value="Submit" class="submit-story">
+                    </form>
+                </div>
+            </div>
+        </div>
+        </div>
+
     </main>
 
     <!--THIS IS THE FOOTER-->
 
-    <footer class="container-fluid background-footer footer-details">
+    <footer class="container background-footer footer-details">
         <div id="footer-details" class="row">
             <div class="col-6">
                 <p class="inline-block copyright footer-text">
