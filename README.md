@@ -221,6 +221,8 @@ There are errors in the Take Action page. Unfortunately, we do not currently und
 
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/7cab74a3-ac6a-4a85-8ae6-962adb87fa1c)
 
+There is a remnant redundant CSS line for home-content-text, which will be removed. There are wrong syntax elements for resources-title and contact-title. 
+
 
 ## 7. Credits
 
