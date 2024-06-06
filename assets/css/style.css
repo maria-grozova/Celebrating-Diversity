@@ -229,6 +229,29 @@ main a {
     padding-top: 25px;
 }
 
+p i {
+    font-size: 200%;
+}
+
+p a:hover {
+    color: #DB7F67;
+}
+
+.resources-title {
+    text-align: center;
+    padding: 20px auto;
+}
+
+.resources-content {
+    padding-top: 45px;
+}
+
+#resources-hero {
+    height: 400px;
+    width: 100%;
+    background: url(../images/resources-group-pic-banner.webp) no-repeat center/cover;
+    position: relative;
+}
 
 /*---------------------------Footer*/
 
