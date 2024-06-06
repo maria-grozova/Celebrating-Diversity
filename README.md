@@ -187,6 +187,39 @@ On our Resources page, we have a link repository to guide the user to other loca
 
 ##  6. Testing Documentation
 
+All links function as detail lists above.
+
+### Homepage
+
+![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/ec97d196-f796-4167-9de9-369acd43bbde)
+
+### About Page
+
+![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/edeac260-42d9-42c4-8b8e-9e223a09fa61)
+
+### Resources Page
+
+![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/331e676f-8e58-4c4a-84b3-acecd8772966)
+
+### Contact Page
+
+![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/9a46c0ad-41e2-42eb-bedc-eb89672fad6d)
+
+An unnecessary /div is found in the document.
+
+### Success Stories
+
+![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/c197ead5-7eb3-4a6d-8618-fe908c041c6d)
+
+### Take Action
+
+![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/a24343b4-d1d4-4321-93d1-f70dde10b6d3)
+
+There are errors in the Take Action page. Unfortunately, we do not currently understand how to 'fix' this iframe issue. 
+
+### CSS
+
+![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/7cab74a3-ac6a-4a85-8ae6-962adb87fa1c)
 
 
 ## 7. Credits
