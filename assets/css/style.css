@@ -284,11 +284,12 @@ margin-bottom: 25px;
 }
 .diversity-form input,
 .diversity-form textarea {
-padding-top: 10px;
+    padding-top: 10px;
     padding-left: 5px;
     padding-right: 5px;
     padding-bottom: 10px;
 }
+
 
 .diversity-form input {
     max-width: 320px;
@@ -302,6 +303,7 @@ padding-top: 10px;
 .contact-section {
     max-width: 800px;
     padding-top: 25px;
+
 }
 /*---------------------------Footer*/
 
@@ -319,4 +321,22 @@ footer {
 .footer-link:hover     {
     text-decoration:none;
     color: #DB7F67;
+}
+
+.footer, .col-6 {
+    padding-left: 0;
+    padding-right: 0; 
+}
+
+.footer, .col-4  {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.footer, a, p  {
+    font-size: 12px;
+}
+
+.footer, .copyright  {
+    font-size: 12px;
 }
