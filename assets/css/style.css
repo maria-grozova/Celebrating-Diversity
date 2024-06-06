@@ -218,6 +218,18 @@ main a {
     color: #2E3A3B;
 }
 
+/*---------------------------Resources*/
+
+.container-fluid {
+    min-width: 590px;
+}
+
+.resources-section {
+    max-width: 800px;
+    padding-top: 25px;
+}
+
+
 /*---------------------------Footer*/
 
 footer {
