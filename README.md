@@ -205,6 +205,11 @@ All links function as detail lists above.
 
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/9a46c0ad-41e2-42eb-bedc-eb89672fad6d)
 
+After fixes:
+
+![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/a101e713-63f2-442f-aa07-139ca4767796)
+
+
 An unnecessary /div is found in the document.
 
 ### Success Stories
@@ -217,11 +222,23 @@ An unnecessary /div is found in the document.
 
 There are errors in the Take Action page. Unfortunately, we do not currently understand how to 'fix' this iframe issue. 
 
+After fixes:
+![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/c97229eb-1178-4f49-ba0e-415a2159c953)
+
+Although the iframe error redundancy was removed, which removes the error in the validator, it is still running a redundant code somewhat which is non-responsive.
+
+Itemised to fix in future update / iteration.
+
 ### CSS
 
 ![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/7cab74a3-ac6a-4a85-8ae6-962adb87fa1c)
 
 There is a remnant redundant CSS line for home-content-text, which will be removed. There are wrong syntax elements for resources-title and contact-title. 
+
+After fixes:
+
+![image](https://github.com/maria-grozova/Celebrating-Diversity/assets/139562112/ce231056-e1d9-4eb5-9778-0b8aa950689f)
+
 
 
 ## 7. Credits
@@ -235,7 +252,7 @@ These developers are...
 **UX Design / Lead**
 - **Aeryx Rose** (https://github.com/SubjugatorofCSS)
 
-**Documentation, Design, Flex**
+**Documentation / Design / Flex / Bug Squasher Debugging**
 - **Carl Jones** (https://github.com/c-e-jones)
   
 ##  8. Licencing Rights
