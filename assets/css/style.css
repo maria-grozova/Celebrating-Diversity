@@ -126,7 +126,6 @@ main a {
 .home-content-text {
     font-size: 16px;
     font-family: "Montserrat", sans-serif;
-    font-weight: 00;
     color: #2e3a3b;
     padding-top: 10px;
     padding-bottom: 20px;
@@ -263,7 +262,7 @@ p a:hover {
 
 .resources-title {
     text-align: center;
-    padding: 20px auto;
+    padding: 20px;
 }
 
 .resources-content {
@@ -281,7 +280,7 @@ p a:hover {
 
 .contact-title {
     text-align: center;
-    padding: 20px auto;
+    padding: 20px;
 }
 
 .contact-form {
