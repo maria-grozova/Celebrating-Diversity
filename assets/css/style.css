@@ -154,7 +154,30 @@ main a {
         font-size: 24px;
     }
 }   
+/*---------------------------About*/
 
+div .container {
+    padding-bottom: 25px;
+}
+
+.card-header {
+    background-color: #DB7F67;
+    border-bottom: #FAF0F0;
+}
+
+.card-body {
+    background-color: #FAF0F0;
+    color: #2E3A3B;
+}
+
+.btn-link {
+    color: #efeee6;
+}
+
+.btn-link:hover {
+    color: #2E3A3B;
+    text-decoration: underline;
+}
 /*---------------------------Success Stories*/
 
 .success-main-heading   {
